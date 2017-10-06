@@ -2,3 +2,6 @@
 pom.xml.*
 release.properties
 target/
+.classpath
+.project
+.settings/
